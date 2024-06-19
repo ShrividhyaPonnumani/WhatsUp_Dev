@@ -5,3 +5,5 @@ I am proficient in programming languages such as Java and Python, which enables 
 Beyond technical skills, I possess strong analytical abilities and a keen eye for detail, allowing me to identify defects early in the development lifecycle and work proactively to prevent their recurrence. I am also a team player with excellent communication skills, capable of effectively conveying technical concepts to both technical and non-technical stakeholders.
 Thank you for considering my application. I am enthusiastic about the opportunity to discuss how my skills and experiences align with the needs of your team further. I am available at your earliest convenience for an interview 
 Thank You
+Adding audio call feature
+Adding the video call feature
